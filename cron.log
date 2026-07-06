@@ -1,0 +1,86 @@
+bash: */5: No such file or directory
+bash: */1: No such file or directory
+/bin/sh: 1: /home/ubuntu/Firewall/scripts/backup_and_push.sh: not found
+/bin/sh: 1: /home/ubuntu/Firewall/scripts/backup_and_push.sh: not found
+/bin/sh: 1: /home/ubuntu/Firewall/scripts/backup_and_push.sh: not found
+Backup saved as /home/ubuntu/Firewall/backups/FortiGate_20260706_222201.conf
+[backups c9d2b09] Automated backup 2026-07-06 22:22:01
+ 1 file changed, 10664 insertions(+)
+ create mode 100644 backups/FortiGate_20260706_222201.conf
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Backup saved as /home/ubuntu/Firewall/backups/FortiGate_20260706_222302.conf
+[backups edaba65] Automated backup 2026-07-06 22:23:02
+ 1 file changed, 10664 insertions(+)
+ create mode 100644 backups/FortiGate_20260706_222302.conf
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Backup saved as /home/ubuntu/Firewall/backups/FortiGate_20260706_222402.conf
+[backups b428bac] Automated backup 2026-07-06 22:24:02
+ 1 file changed, 10664 insertions(+)
+ create mode 100644 backups/FortiGate_20260706_222402.conf
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Backup saved as /home/ubuntu/Firewall/backups/FortiGate_20260706_222603.conf
+[backups 9aab2c2] Automated backup 2026-07-06 22:26:03
+ 1 file changed, 10664 insertions(+)
+ create mode 100644 backups/FortiGate_20260706_222603.conf
+ssh: Could not resolve hostname github.com: Temporary failure in name resolution
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Backup saved as /home/ubuntu/Firewall/backups/FortiGate_20260706_222802.conf
+[backups fc6e8ea] Automated backup 2026-07-06 22:28:02
+ 1 file changed, 10664 insertions(+)
+ create mode 100644 backups/FortiGate_20260706_222802.conf
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Backup saved as /home/ubuntu/Firewall/backups/FortiGate_20260706_223002.conf
+[backups 797edee] Automated backup 2026-07-06 22:30:02
+ 1 file changed, 10664 insertions(+)
+ create mode 100644 backups/FortiGate_20260706_223002.conf
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Backup saved as /home/ubuntu/Firewall/backups/FortiGate_20260706_223202.conf
+[backups fc29574] Automated backup 2026-07-06 22:32:02
+ 1 file changed, 10664 insertions(+)
+ create mode 100644 backups/FortiGate_20260706_223202.conf
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Backup saved as /home/ubuntu/Firewall/backups/FortiGate_20260706_223402.conf
+[backups 70fc9ef] Automated backup 2026-07-06 22:34:02
+ 1 file changed, 10664 insertions(+)
+ create mode 100644 backups/FortiGate_20260706_223402.conf
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Backup saved as /home/ubuntu/Firewall/backups/FortiGate_20260706_223601.conf
+[backups c203757] Automated backup 2026-07-06 22:36:01
+ 1 file changed, 10664 insertions(+)
+ create mode 100644 backups/FortiGate_20260706_223601.conf
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
