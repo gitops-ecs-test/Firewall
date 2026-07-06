@@ -5,7 +5,7 @@ from pathlib import Path
 FGT_IP = "192.168.184.139"
 API_TOKEN = "70H0d5Gzxfqn1bHsksjfHfGkd7mf3f"
 
-url = f"https://{FGT_IP}/api/v2/monitor/system/config/backup"
+url = f"http://{FGT_IP}/api/v2/monitor/system/config/backup"
 
 headers = {
     "Authorization": f"Bearer {API_TOKEN}"
