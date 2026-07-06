@@ -16,7 +16,7 @@ params = {
 }
 
 # Backup directory
-backup_dir = Path("/home/Firewall/backups")
+backup_dir = Path("/home/ubuntu/Firewall/backups")
 backup_dir.mkdir(parents=True, exist_ok=True)
 
 response = requests.get(
